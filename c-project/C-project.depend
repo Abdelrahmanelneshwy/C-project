@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1659631578 source:d:\my work\amit\assigment\c-project\main.c
+	"SDB.h"
+
+1660216400 d:\my work\amit\assigment\c-project\sdb.h
+	"STD_TYPES.h"
+
+1660230461 source:d:\my work\amit\assigment\c-project\sdb.c
+	"SDB.h"
+
+1659377091 d:\my work\amit\assigment\c-project\std_types.h
+	<stdio.h>
+	<stdlib.h>
+
+1659381647 d:\my work\amit\assigment\c-project\sdb.c
+	"SDB.h"
+
